@@ -1,4 +1,4 @@
-# builtmobile
+# Ionic vue Scaffold
 
 ## Project setup
 ```
@@ -21,4 +21,8 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://cli.vuejs.org/config/). for vuejs
+
+
+### Customize configuration
+See [Configuration Reference](https://ionicframework.com/docs/). for ionic 
